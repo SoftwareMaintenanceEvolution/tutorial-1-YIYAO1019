@@ -5,7 +5,7 @@
 Hi! I'm Kang Yi Yao, a student in the Framework-Based Software Design and Development course.
 I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-![My Image](/tutorial-1-YIYAO1019/Yi%20Yao_Photo.jpg)
+![My Image](/me.jpg)
 
 ## GitHub Profile
 
